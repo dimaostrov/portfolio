@@ -1,6 +1,11 @@
 {
   "main.css": "static/css/main.262c3453.css",
   "main.css.map": "static/css/main.262c3453.css.map",
-  "main.js": "static/js/main.87820a72.js",
-  "main.js.map": "static/js/main.87820a72.js.map"
+  "main.js": "static/js/main.777b62cb.js",
+  "main.js.map": "static/js/main.777b62cb.js.map",
+  "static/media/aframe.png": "static/media/aframe.ab26b38a.png",
+  "static/media/bamazon.png": "static/media/bamazon.fd4d04a2.png",
+  "static/media/giffer.png": "static/media/giffer.d9d3fdc1.png",
+  "static/media/guessword.png": "static/media/guessword.6bb33b73.png",
+  "static/media/liri.png": "static/media/liri.e0f8abd4.png"
 }

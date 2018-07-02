@@ -5,10 +5,12 @@ import aframe from '../images/aframe.png';
 import giffer from '../images/giffer.png';
 import liri from '../images/liri.png';
 import guessword from '../images/guessword.png';
+import faceSquared from '../images/faceSquared.png';
 
 const Portfolio = () => 
 <div>
   <Main>
+    <Article image={faceSquared} title="FaceSquared" description="A face recognition software that allows you to hook up your home IP camera or NVR to analyze all motion sensitive streams" link="https://pure-sea-66381.herokuapp.com" />
     <Article image={aframe} title="Aframe Cryptocurrency example" description="Just messin round with a-frame" link='https://github.com/dimaostrov/aframe-example' />
     <Article image={bamazon} title='Bamazon' description="Cli app to interface with an inventory in MySql" link='https://github.com/dimaostrov/bamazon'/>
     <Article image={liri} title='LIRI NODE APP' description="a beginners Siri like app that has functionality to look up various movie/music APIs." link='https://github.com/dimaostrov/liri-node-app' />

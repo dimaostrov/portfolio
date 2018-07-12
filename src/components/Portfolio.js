@@ -6,10 +6,12 @@ import giffer from '../images/giffer.png';
 import liri from '../images/liri.png';
 import guessword from '../images/guessword.png';
 import faceSquared from '../images/faceSquared.png';
+import mongoScrape from '../images/mongoscrape.png';
 
 const Portfolio = () => 
 <div>
   <Main>
+    <Article image={mongoScrape} title="Mongo News Scraper" description="A news scraper using Mongo DB and Cheerio" link="https://fierce-journey-21685.herokuapp.com/">
     <Article image={faceSquared} title="FaceSquared" description="A face recognition software that allows you to hook up your home IP camera or NVR to analyze all motion sensitive streams" link="https://pure-sea-66381.herokuapp.com" />
     <Article image={aframe} title="Aframe Cryptocurrency example" description="Just messin round with a-frame" link='https://github.com/dimaostrov/aframe-example' />
     <Article image={bamazon} title='Bamazon' description="Cli app to interface with an inventory in MySql" link='https://github.com/dimaostrov/bamazon'/>

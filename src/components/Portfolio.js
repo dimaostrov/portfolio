@@ -12,7 +12,7 @@ import pictureGame from '../images/picture game.png';
 const Portfolio = () => 
 <div>
   <Main>
-    <Article image={pictureGame} title="React Picture Picking Game" description="A game where you have to pick a different character otherwise your score will reset" link="https://dimaostrov.github.io/react-image-game/">
+    <Article image={pictureGame} title="React Picture Picking Game" description="A game where you have to pick a different character otherwise your score will reset" link="https://dimaostrov.github.io/react-image-game" />
     <Article image={mongoScrape} title="Mongo News Scraper" description="A news scraper using Mongo DB and Cheerio" link="https://fierce-journey-21685.herokuapp.com/" />
     <Article image={faceSquared} title="FaceSquared" description="A face recognition software that allows you to hook up your home IP camera or NVR to analyze all motion sensitive streams" link="https://pure-sea-66381.herokuapp.com" />
     <Article image={aframe} title="Aframe Cryptocurrency example" description="Just messin round with a-frame" link='https://github.com/dimaostrov/aframe-example' />

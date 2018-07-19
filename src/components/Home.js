@@ -13,22 +13,22 @@ const Main = () => (
     </div>
     <div class="f6 lh-copy fl w-100 mb4">
       <div class="fl-ns w-100 w-20-l pr3-m pr5-l">
-        <p>
+        <p className="ttu b">
           Node.js
         </p>
       </div>
       <div class="fl-ns w-50-m w-20-l pr3-m pr5-l">
-        <p>React</p>
+        <p className="ttu b">React</p>
       </div>
       <div class="fl-ns w-50-m w-20-l pr3-m pr5-l">
-        <p>
+        <p className="ttu b">
           Express
         </p>
       </div>
-      <div class="fl-ns w-50-m w-20-l pr3-m pr5-l">
+      <div class="fl-ns w-50-m w-20-l pr3-m pr5-l ttu b">
         Custom CSS Components
       </div>
-      <div class="fl-ns w-50-m w-20-l pr3-m pr5-l">
+      <div class="fl-ns w-50-m w-20-l pr3-m pr5-l ttu b">
         Mysql
       </div>
     </div>
